@@ -40,8 +40,9 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVuejN2MG1qaDdoaXFxcHI5dmNlNm
 
 <div align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=DeF4lt-Cap10N&theme=transparent"/>
+        <img src="https://streak-stats.demolab.com?user=DeF4lt-Cap10N&short_numbers=true"/>
     </a>
+    
 </div>
 
 
