@@ -61,7 +61,7 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVuejN2MG1qaDdoaXFxcHI5dmNlNm
 <div> <h3>Web Development Stack</h3> </div>
  <div>
  
- [![Web Stack](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,figma,javascript,ts,react,redux,nextjs,nodejs,expressjs,graphql,mongodb,mysql,firebase,git,github,heroku,netlify,vercel&perline=11)](https://skillicons.dev)
+ [![Web Stack](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,figma,javascript,ts,react,redux,nextjs,nodejs,expressjs,graphql,mongodb,mysql,firebase,git,github,heroku,postman,netlify,vercel&perline=11)](https://skillicons.dev)
  
 </div>
  
