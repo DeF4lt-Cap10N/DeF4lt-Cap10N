@@ -54,7 +54,7 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVuejN2MG1qaDdoaXFxcHI5dmNlNm
 <div> <h3>Languages </h3> </div>
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,cpp,py,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,ts,cpp,py,c)](https://skillicons.dev)
 
 </div>
  
