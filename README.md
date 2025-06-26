@@ -14,7 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=DeF4lt-Cap10N&label=Profile%20views&color=0e75b6&style=flat" alt="DeF4lt-Cap10N" />
 </p>
 
----
 
 <img align="right" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVuejN2MG1qaDdoaXFxcHI5dmNlNmxrMHV3bXFxbnN3NmY5Y29ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="coding" />
 
