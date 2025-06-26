@@ -69,14 +69,18 @@
 
 ---
 
-### 📊 GitHub Stats
+ ### 📊 GitHub Stats
 
-<a href="https://github.com/DeF4lt-Cap10N">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DeF4lt-Cap10N&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-</a>
+<div align="center">
 
-<a href="https://github.com/DeF4lt-Cap10N">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeF4lt-Cap10N&theme=github_dark" width="32.5%">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeF4lt-Cap10N&theme=github_dark&utcOffset=8" width="32.5%">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeF4lt-Cap10N&theme=github_dark" width="98.5%">
-</a>
+  <!-- Row 1: Equal-width Top 3 Cards -->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DeF4lt-Cap10N&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeF4lt-Cap10N&theme=github_dark" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeF4lt-Cap10N&theme=github_dark&utcOffset=8" width="32%" />
+
+  <br/><br/>
+
+  <!-- Row 2: Full-width Profile Details -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeF4lt-Cap10N&theme=github_dark" width="100%" />
+
+</div>
