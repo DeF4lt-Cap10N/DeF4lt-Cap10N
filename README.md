@@ -49,16 +49,16 @@
 
 ## 🛠 Technical Skills
 
-### 👨‍💻 Languages
+### Languages
 [![Languages](https://skillicons.dev/icons?i=javascript,ts,cpp,py,c)](https://skillicons.dev)
 
-### 🌐 Web Development Stack
+### Web Development Stack
 [![Web Stack](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,figma,javascript,ts,react,redux,nextjs,nodejs,expressjs,graphql,mongodb,mysql,prisma,firebase,git,github,docker,kubernetes,heroku,postman,netlify,vercel&perline=11)](https://skillicons.dev)
 
-### 🧰 Development Tools
+### Development Tools
 [![Dev Tools](https://skillicons.dev/icons?i=vscode,codepen,eclipse,idea)](https://skillicons.dev)
 
-### 📂 Version Control
+### Version Control
 [![Version Control](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
 ---
