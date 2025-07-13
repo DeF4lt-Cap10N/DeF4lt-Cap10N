@@ -50,7 +50,7 @@
 ## 🛠 Technical Skills
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=javascript,ts,cpp,py,c)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=javascript,ts,cpp,c,py)](https://skillicons.dev)
 
 ### Web Development Stack
 [![Web Stack](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,figma,javascript,ts,react,redux,nextjs,nodejs,expressjs,graphql,mongodb,mysql,prisma,firebase,git,github,docker,kubernetes,heroku,postman,netlify,vercel&perline=11)](https://skillicons.dev)
