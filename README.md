@@ -53,7 +53,7 @@
 [![Languages](https://skillicons.dev/icons?i=javascript,ts,cpp,c,py)](https://skillicons.dev)
 
 ### Web Development Stack
-[![Web Stack](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,figma,javascript,ts,react,redux,nextjs,nodejs,expressjs,graphql,mongodb,mysql,prisma,firebase,git,github,docker,kubernetes,postman,netlify,vercel&perline=11)](https://skillicons.dev)
+[![Web Stack](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,javascript,ts,react,redux,nextjs,nodejs,expressjs,graphql,mongodb,mysql,prisma,firebase,git,github,docker,kubernetes,postman,netlify,vercel&perline=11)](https://skillicons.dev)
 
 ### Development Tools
 [![Dev Tools](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
